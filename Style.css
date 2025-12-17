@@ -3,3 +3,21 @@ h1{
     background-color: black;
     color: white;
 }
+        h1{
+            color: white;
+            background-color: black;
+            text-align: center;
+            text-decoration: underline;
+        }
+        p{
+            text-align: center;
+            background-color: thistle;
+            font-weight: bolder;
+            margin: 0 100px 0 100px;
+        }
+        h2{
+            color: white;
+            background-color: black;
+            text-align: center;
+            text-decoration: underline;
+        }
